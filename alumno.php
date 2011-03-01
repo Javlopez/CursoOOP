@@ -57,7 +57,7 @@ class Alumno {
 
 // 0 -10 = 1
 $datos = array('id' => 1,
-                'alumno' => 'Rasmus',
+                'alumno' => 'Javier',
                 'edad' => 30,
                 'clases' => 'php',
                 'parcial1' => 10,
