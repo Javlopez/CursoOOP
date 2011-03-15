@@ -15,6 +15,7 @@ class Alumno extends Persona {
     public function  __construct($datos = array())
     {
       parent::__construct($datos);
+
     }
 
 

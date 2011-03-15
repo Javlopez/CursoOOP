@@ -1,5 +1,4 @@
 <?php
-
 class User {
     //propiedades
     //$a=;$a
@@ -69,6 +68,4 @@ echo "<h1>Taller PHP OOP </h1><br /> Registro!!<hr />
     -Rapidphp
     -Aptana";
 */
-
 ?>
- 
